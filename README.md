@@ -1,4 +1,4 @@
-# HerosJourney
+# Hero's Journey
 
 Hero's Journey: A Full Width Hero Image Layout
 
